@@ -7,7 +7,7 @@
 
 
 /**
-
+ *
  * main - Prints the last digit of number generated randomly
 
  * and wether it is greater than 5, lesser than 6, or zero
