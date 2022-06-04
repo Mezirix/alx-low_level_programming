@@ -1,30 +1,16 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
-
-
-
 /**
- *
  * main - Prints the last digit of number generated randomly
-
  * and wether it is greater than 5, lesser than 6, or zero
-
  *
-
  *Return: Always 0
-
  */
-
 int main(void)
 
 {
-
 		int n;
-
-
 
 		srand(time(0));
 
